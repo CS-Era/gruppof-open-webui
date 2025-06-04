@@ -60,10 +60,10 @@ docker exec ollama-test ollama pull model-name
 
 **Developed by CyberHackademy GroupF:**
 
-- [@Marco Melucci](https://github.com/MarcoMelucci99)
-- [@Erasmo Prosciutto](https://github.com/CS-Era)
-- Daniele Degni
-- [@Luigi Maresca](https://github.com/luigii99)
+🔴 [@Marco Melucci](https://github.com/MarcoMelucci99)
+🟢 [@Erasmo Prosciutto](https://github.com/CS-Era)
+🔵 [@Daniele Degni](https://github.com/DennyDAkyX)
+🟡 [@Luigi Maresca](https://github.com/luigii99)
 
 ---
 
