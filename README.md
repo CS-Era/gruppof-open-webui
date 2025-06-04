@@ -22,7 +22,6 @@ Download a model (example: llama3.2:1b)
 docker exec ollama-test ollama pull llama3.2:1b
 
 # Check downloaded models
-```bash
 docker exec ollama-test ollama list
 
 4. Access
