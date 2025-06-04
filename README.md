@@ -1,6 +1,6 @@
 # Open WebUI - Deployment con Docker Compose
 
-Accessible on: **https://gruppof.marcomelucci.me**
+Accessible on: **https://gruppof.marcomelucci.me** 
 
 ## Setup
 
@@ -18,4 +18,9 @@ Accessible on: **https://gruppof.marcomelucci.me**
    #then check if it was successfully downloaded
    docker exec ollama-test ollama list
 
-## You can download different models on https://ollama.com/library and download them locally following step 3
+You can download different models on https://ollama.com/library and download them locally following step 3.
+You may want to change nginx configurations on /open-webui-deploy/nginx/default.conf by changing certificates and domain name
+
+## Have fun playing with llm models! 🚀
+
+
