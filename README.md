@@ -56,7 +56,7 @@ To download any model:
 docker exec ollama-test ollama pull model-name
 ```
 
-## 👥 Development Team
+## 👥 Team
 
 **Developed by CyberHackademy GroupF:**
 - Marco Melucci
