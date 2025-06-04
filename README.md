@@ -1,4 +1,4 @@
-# Open WebUI - Docker Compose Deployment
+# Open WebUI - Docker Compose Deployment with an ollama model included
 
 Deploy Open WebUI with Ollama using Docker Compose and Nginx.
 
