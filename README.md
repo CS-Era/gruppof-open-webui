@@ -8,7 +8,7 @@ Accessible on: **https://gruppof.marcomelucci.me**
    ```bash
    git clone https://github.com/tuo-utente/open-webui-deploy.git
    cd open-webui-deploy
-2. Use these command:
+2. Use these commands:
    ```bash
    cd open-webui-deploy
    docker compose up -d
