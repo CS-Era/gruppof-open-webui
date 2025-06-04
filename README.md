@@ -13,7 +13,7 @@ cd open-webui-deploy
 cp .env.example .env
 
 2. Start Services
-```bash
+bash
 docker compose up -d
 
 3. Download Ollama Models
