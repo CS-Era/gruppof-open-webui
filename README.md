@@ -20,7 +20,7 @@ cp .env.example .env
 docker compose up -d
 ```
 
-### 3. Enjoy
+### 3. Enjoy 😁
 
 
 ## 🔧 HTTPS Setup (Optional)
@@ -47,3 +47,9 @@ To download any model modify the .env file or download directly from the GUI in 
 Have fun with LLM models! 🚀
 
 **Powered By**: CyberHackademy Unina 🎓
+
+This is not the official open webui git.
+References: 
+https://github.com/open-webui/open-webui
+https://github.com/ollama/ollama
+https://github.com/nginx/nginx
