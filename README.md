@@ -28,7 +28,7 @@ docker compose up -d
 
 To expose publicly with HTTPS, modify `nginx/default.conf` with your domain and configure SSL certificates.
 
-###📚 Available Models
+📚 Available Models
 
 Browse and download models from [Ollama Library](https://ollama.ai/library).
 
