@@ -20,14 +20,15 @@ cp .env.example .env
 docker compose up -d
 ```
 
-### 3. Enjoy 😁
+# 3. Enjoy 😁
 
 
-## 🔧 HTTPS Setup (Optional)
+
+### 🔧 HTTPS Setup (Optional)
 
 To expose publicly with HTTPS, modify `nginx/default.conf` with your domain and configure SSL certificates.
 
-## 📚 Available Models
+###📚 Available Models
 
 Browse and download models from [Ollama Library](https://ollama.ai/library).
 
