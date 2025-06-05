@@ -1,3 +1,49 @@
+# --- Specifici progetto ---
 .env
 nginx/certs/
 ollama_data/
+
+# --- Logs ---
+*.log
+
+# --- Node.js (se serve) ---
+node_modules/
+package-lock.json
+yarn.lock
+
+# --- Build ---
+dist/
+build/
+
+# --- OS ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# --- Editor / IDE ---
+# Vim
+*.swp
+*.swo
+*.vimrc
+
+# Emacs
+*~
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm...)
+.idea/
+*.iml
+
+
+# --- Altri ---
+*.bak
+*.tmp
