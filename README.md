@@ -32,7 +32,7 @@ To expose publicly with HTTPS, modify `nginx/default.conf` with your domain and 
 
 Browse and download models from [Ollama Library](https://ollama.ai/library).
 
-To download any model modify the .env file or download directly from the GUI in Administration Panel -> Settings -> Models
+To download any model modify the .env file or download them directly from the GUI in Administration Panel -> Settings -> Models
 
 ## 👥 Development Team
 
