@@ -9,7 +9,7 @@ Deploy Open WebUI with Ollama using Docker Compose and Nginx.
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/your-username/open-webui-deploy.git
+git clone https://github.com/CS-Era/open-webui-deploy.git
 cd open-webui-deploy
 cp .env.example .env
 ```
