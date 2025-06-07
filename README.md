@@ -38,10 +38,10 @@ To download any model modify the .env file or download them directly from the GU
 
 **Developed by CyberHackademy GroupF:**
 
-- 🔵 [@marcomelucci](https://github.com/marcomelucci)
-- 🟢 [@erasmoprosciutto](https://github.com/erasmoprosciutto)
-- 🟡 [@danieledegni](https://github.com/danieledegni)
-- 🟣 [@luigimaresca](https://github.com/luigimaresca)
+- 🔵 [@Marco Melucci](https://github.com/MarcoMelucci99)
+- 🟢 [@Erasmo Prosciutto](https://github.com/CS-Era)
+- 🟡 [@Daniele Degni](https://github.com/DennyDAkyX)
+- 🟣 [@Luigi Maresca](https://github.com/luigii99)
 
 ---
 
